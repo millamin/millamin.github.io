@@ -1,2 +1,7 @@
-VÄLKOMMEN  
-detta är ett test för att se om man kan laga en webbsida utan en html-template.
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MILLAMIN</title>
+</head>
+<body>
+	<p>Välkommen till min webbsida</p>
